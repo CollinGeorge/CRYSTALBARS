@@ -1,5 +1,4 @@
 # CRYSTAL BARS™
-Artificial intelligence and machine learning prediction model for financial securities trading
 
 CRYSTAL BARS™ is an artificial intelligence and machine learning capability that enables the prediction of a chosen financial security. This is achieved through the analysis of qualitative data using open source intelligence (OSINT) to quantify market sentiment. Additionally, quantitive analysis is performed using historical liquidity data to measure individual candlesticks (bars), accumulation, distribution and time to identify patterns, correlations and assist in the prediction of a securities direction of movement over a given time period. 
 
